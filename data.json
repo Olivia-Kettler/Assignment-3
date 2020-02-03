@@ -1,0 +1,46 @@
+[
+	{
+		"name":"Clematis",
+		"color":"Purple",
+		"season":"Summer",
+		"price":"$8.70 per bloom",
+		"picture":"clematis.jfif",
+		"bio":"Originated from China and Japan. A popular garden plant. Will grow in an good soil. Do not put in direct sunlight."
+	},{
+		"name":"Sunflower",
+		"color":"Yellow",
+		"season":"Summer-Fall",
+		"price":"$15.65 per bloom",
+		"picture":"sunflower.jpg",
+		"bio":"Native to North America. Plant in good soil. Grows best in direct sunlight."
+		
+	},{
+		"name":"Gardenia",
+		"color":"White",
+		"season":"Year-Round",
+		"price":"$10.83 per bloom",
+		"picture":"gardenia.jpg",
+		"bio":"These plants grow indoors. Do not place in direct sunlight. They need the equivalent on 1 inch of rain to survivie."
+	},{
+		"name":"Carnation",
+		"color":"Red",
+		"season":"Spring-Summer",
+		"price":"$0.72 per stem",
+		"picture":"carnation.jpg",
+		"bio":"They need moderate sunlight. Water daily."
+	},{
+		"name":"Rose",
+		"color":"Red",
+		"season":"Spring",
+		"price":"$0.95 per stem",
+		"picture":"rose.jfif",
+		"bio":"Plant in rich soil. They like sunlight, so make sure the area is well lit. Water daily."
+	},{
+		"name":"Cornflower",
+		"color":"Blue",
+		"season":"Summer-Fall",
+		"price":"$10.05 per bloom",
+		"picture":"cornflower.jpg",
+		"bio":"Plant in direct sunlight. Can be planted in any garden soil. Water daily."
+	}
+]
